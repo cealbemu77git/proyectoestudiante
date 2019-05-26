@@ -1,0 +1,89 @@
+C:\Users\vasquezs\Desktop\Realidad aumentada\Raumentada\Raumentada\bin\Debug\Raumentada.exe.config
+C:\Users\vasquezs\Desktop\Realidad aumentada\Raumentada\Raumentada\bin\Debug\Raumentada.exe
+C:\Users\vasquezs\Desktop\Realidad aumentada\Raumentada\Raumentada\bin\Debug\Raumentada.pdb
+C:\Users\vasquezs\Desktop\Realidad aumentada\Raumentada\Raumentada\bin\Debug\Raumentada.xml
+C:\Users\vasquezs\Desktop\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.vbprojAssemblyReference.cache
+C:\Users\vasquezs\Desktop\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.Resources.resources
+C:\Users\vasquezs\Desktop\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.vbproj.GenerateResource.cache
+C:\Users\vasquezs\Desktop\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.vbproj.CoreCompileInputs.cache
+C:\Users\vasquezs\Desktop\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.exe
+C:\Users\vasquezs\Desktop\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.xml
+C:\Users\vasquezs\Desktop\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.pdb
+C:\Users\vasquezs\Desktop\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.LOGIN.resources
+C:\Users\vasquezs\Desktop\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.USUARIOS.resources
+C:\Users\vasquezs\Desktop\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.USERPASSWORD.resources
+C:\Users\vasquezs\Desktop\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.INICIO.resources
+C:\Users\vasquezs\Desktop\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.TEST1.resources
+C:\Users\vasquezs\Desktop\Realidad aumentada\Raumentada\Raumentada\bin\Debug\Interop.WMPLib.dll
+C:\Users\vasquezs\Desktop\Realidad aumentada\Raumentada\Raumentada\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\vasquezs\Desktop\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Interop.WMPLib.dll
+C:\Users\vasquezs\Desktop\Realidad aumentada\Raumentada\Raumentada\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\vasquezs\Desktop\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.vbproj.ResolveComReference.cache
+C:\Users\vasquezs\Desktop\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.VIDEO_WEB.resources
+C:\Users\vasquezs\Desktop\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.AUDIO.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Realidad aumentada\Raumentada\Raumentada\bin\Debug\Raumentada.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Realidad aumentada\Raumentada\Raumentada\bin\Debug\Raumentada.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Realidad aumentada\Raumentada\Raumentada\bin\Debug\Raumentada.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Realidad aumentada\Raumentada\Raumentada\bin\Debug\Raumentada.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Realidad aumentada\Raumentada\Raumentada\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Realidad aumentada\Raumentada\Raumentada\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.vbproj.ResolveComReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.AUDIO.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.LOGIN.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.INICIOaumentada.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.Resources.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.TEST1.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.USERPASSWORD.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.USUARIOS.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.VIDEO_WEB.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Realidad aumentada\Raumentada\Raumentada\bin\Debug\Raumentada.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Realidad aumentada\Raumentada\Raumentada\bin\Debug\Raumentada.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Realidad aumentada\Raumentada\Raumentada\bin\Debug\Raumentada.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Realidad aumentada\Raumentada\Raumentada\bin\Debug\Raumentada.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Realidad aumentada\Raumentada\Raumentada\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Realidad aumentada\Raumentada\Raumentada\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.vbproj.ResolveComReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.AUDIO.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.LOGIN.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.INICIOaumentada.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.Resources.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.TEST1.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.USERPASSWORD.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.USUARIOS.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.VIDEO_WEB.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Realidad aumentada\Raumentada\Raumentada\bin\Debug\Raumentada.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Realidad aumentada\Raumentada\Raumentada\bin\Debug\Raumentada.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Realidad aumentada\Raumentada\Raumentada\bin\Debug\Raumentada.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Realidad aumentada\Raumentada\Raumentada\bin\Debug\Raumentada.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Realidad aumentada\Raumentada\Raumentada\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Realidad aumentada\Raumentada\Raumentada\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Realidad aumentada\Raumentada\Raumentada\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.vbproj.ResolveComReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.AUDIO.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.LOGIN.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.INICIOaumentada.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.Resources.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.TEST1.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.USERPASSWORD.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.USUARIOS.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.VIDEO_WEB.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Realidad aumentada\Raumentada\Raumentada\obj\Debug\Raumentada.pdb

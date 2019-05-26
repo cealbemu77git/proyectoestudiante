@@ -1,0 +1,100 @@
+C:\Users\TAVO\source\repos\Scratch\Scratch\bin\Debug\Scratch.exe.config
+C:\Users\TAVO\source\repos\Scratch\Scratch\bin\Debug\Scratch.exe
+C:\Users\TAVO\source\repos\Scratch\Scratch\bin\Debug\Scratch.pdb
+C:\Users\TAVO\source\repos\Scratch\Scratch\bin\Debug\Scratch.xml
+C:\Users\TAVO\source\repos\Scratch\Scratch\obj\Debug\Scratch.vbprojAssemblyReference.cache
+C:\Users\TAVO\source\repos\Scratch\Scratch\obj\Debug\Scratch.Resources.resources
+C:\Users\TAVO\source\repos\Scratch\Scratch\obj\Debug\Scratch.vbproj.GenerateResource.cache
+C:\Users\TAVO\source\repos\Scratch\Scratch\obj\Debug\Scratch.vbproj.CoreCompileInputs.cache
+C:\Users\TAVO\source\repos\Scratch\Scratch\obj\Debug\Scratch.exe
+C:\Users\TAVO\source\repos\Scratch\Scratch\obj\Debug\Scratch.xml
+C:\Users\TAVO\source\repos\Scratch\Scratch\obj\Debug\Scratch.pdb
+C:\Users\TAVO\source\repos\Scratch\Scratch\obj\Debug\Scratch.Conocimiento.resources
+C:\Users\TAVO\source\repos\Scratch\Scratch\obj\Debug\Scratch.Menuscratch.resources
+C:\Users\TAVO\source\repos\Scratch\Scratch\obj\Debug\Scratch.Conocimiento2.resources
+C:\Users\TAVO\source\repos\Scratch\Scratch\obj\Debug\Scratch.Conocimiento3.resources
+C:\Users\TAVO\source\repos\Scratch\Scratch\obj\Debug\Scratch.Conocimiento4.resources
+C:\Users\TAVO\source\repos\Scratch\Scratch\obj\Debug\Scratch.Conocimiento5.resources
+C:\Users\TAVO\source\repos\Scratch\Scratch\obj\Debug\Scratch.Evaluacion.resources
+C:\Users\TAVO\source\repos\Scratch\Scratch\obj\Debug\Scratch.Test2.resources
+C:\Users\TAVO\source\repos\Scratch\Scratch\obj\Debug\Scratch.Multimedia.resources
+C:\Users\TAVO\source\repos\Scratch\Scratch\bin\Debug\Interop.WMPLib.dll
+C:\Users\TAVO\source\repos\Scratch\Scratch\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\TAVO\source\repos\Scratch\Scratch\obj\Debug\Interop.WMPLib.dll
+C:\Users\TAVO\source\repos\Scratch\Scratch\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\TAVO\source\repos\Scratch\Scratch\obj\Debug\Scratch.vbproj.ResolveComReference.cache
+C:\Users\TAVO\source\repos\Scratch\Scratch\bin\Debug\Videos\QuE es Scratch.mp4
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Scratch\Scratch\bin\Debug\Videos\QuE es Scratch.mp4
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Scratch\Scratch\bin\Debug\Scratch.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Scratch\Scratch\bin\Debug\Scratch.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Scratch\Scratch\bin\Debug\Scratch.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Scratch\Scratch\bin\Debug\Scratch.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Scratch\Scratch\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Scratch\Scratch\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Scratch\Scratch\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Scratch\Scratch\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Scratch\Scratch\obj\Debug\Scratch.vbproj.ResolveComReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Scratch\Scratch\obj\Debug\Scratch.Conocimiento.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Scratch\Scratch\obj\Debug\Scratch.Conocimiento2.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Scratch\Scratch\obj\Debug\Scratch.Conocimiento3.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Scratch\Scratch\obj\Debug\Scratch.Conocimiento4.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Scratch\Scratch\obj\Debug\Scratch.Conocimiento5.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Scratch\Scratch\obj\Debug\Scratch.Evaluacion.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Scratch\Scratch\obj\Debug\Scratch.Menuscratch.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Scratch\Scratch\obj\Debug\Scratch.Multimedia.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Scratch\Scratch\obj\Debug\Scratch.Resources.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Scratch\Scratch\obj\Debug\Scratch.Test2.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Scratch\Scratch\obj\Debug\Scratch.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Scratch\Scratch\obj\Debug\Scratch.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Scratch\Scratch\obj\Debug\Scratch.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo40\Scratch\Scratch\obj\Debug\Scratch.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Scratch\Scratch\bin\Debug\Videos\QuE es Scratch.mp4
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Scratch\Scratch\bin\Debug\Scratch.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Scratch\Scratch\bin\Debug\Scratch.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Scratch\Scratch\bin\Debug\Scratch.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Scratch\Scratch\bin\Debug\Scratch.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Scratch\Scratch\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Scratch\Scratch\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Scratch\Scratch\obj\Debug\Scratch.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Scratch\Scratch\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Scratch\Scratch\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Scratch\Scratch\obj\Debug\Scratch.vbproj.ResolveComReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Scratch\Scratch\obj\Debug\Scratch.Conocimiento.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Scratch\Scratch\obj\Debug\Scratch.Conocimiento2.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Scratch\Scratch\obj\Debug\Scratch.Conocimiento3.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Scratch\Scratch\obj\Debug\Scratch.Conocimiento4.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Scratch\Scratch\obj\Debug\Scratch.Conocimiento5.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Scratch\Scratch\obj\Debug\Scratch.Evaluacion.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Scratch\Scratch\obj\Debug\Scratch.Menuscratch.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Scratch\Scratch\obj\Debug\Scratch.Multimedia.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Scratch\Scratch\obj\Debug\Scratch.Resources.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Scratch\Scratch\obj\Debug\Scratch.Test2.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Scratch\Scratch\obj\Debug\Scratch.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Scratch\Scratch\obj\Debug\Scratch.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Scratch\Scratch\obj\Debug\Scratch.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Scratch\Scratch\obj\Debug\Scratch.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Scratch\Scratch\bin\Debug\Videos\QuE es Scratch.mp4
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Scratch\Scratch\bin\Debug\Scratch.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Scratch\Scratch\bin\Debug\Scratch.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Scratch\Scratch\bin\Debug\Scratch.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Scratch\Scratch\bin\Debug\Scratch.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Scratch\Scratch\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Scratch\Scratch\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Scratch\Scratch\obj\Debug\Scratch.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Scratch\Scratch\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Scratch\Scratch\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Scratch\Scratch\obj\Debug\Scratch.vbproj.ResolveComReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Scratch\Scratch\obj\Debug\Scratch.Conocimiento.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Scratch\Scratch\obj\Debug\Scratch.Conocimiento2.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Scratch\Scratch\obj\Debug\Scratch.Conocimiento3.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Scratch\Scratch\obj\Debug\Scratch.Conocimiento4.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Scratch\Scratch\obj\Debug\Scratch.Conocimiento5.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Scratch\Scratch\obj\Debug\Scratch.Evaluacion.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Scratch\Scratch\obj\Debug\Scratch.Menuscratch.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Scratch\Scratch\obj\Debug\Scratch.Multimedia.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Scratch\Scratch\obj\Debug\Scratch.Resources.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Scratch\Scratch\obj\Debug\Scratch.Test2.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Scratch\Scratch\obj\Debug\Scratch.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Scratch\Scratch\obj\Debug\Scratch.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Scratch\Scratch\obj\Debug\Scratch.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Scratch\Scratch\obj\Debug\Scratch.pdb

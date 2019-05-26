@@ -1,0 +1,148 @@
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\Area_de_apoyo\Area_Ingles\Area_Ingles\bin\Debug\Area_Ingles.exe.config
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\Area_de_apoyo\Area_Ingles\Area_Ingles\bin\Debug\Area_Ingles.exe
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\Area_de_apoyo\Area_Ingles\Area_Ingles\bin\Debug\Area_Ingles.pdb
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\Area_de_apoyo\Area_Ingles\Area_Ingles\bin\Debug\Area_Ingles.xml
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\Area_de_apoyo\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.vbprojResolveAssemblyReference.cache
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\Area_de_apoyo\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Area_de_Ingles.resources
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\Area_de_apoyo\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Resources.resources
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\Area_de_apoyo\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.vbproj.GenerateResource.Cache
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\Area_de_apoyo\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.exe
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\Area_de_apoyo\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.xml
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\Area_de_apoyo\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.pdb
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\Area_de_apoyo\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Login.resources
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\Area_de_apoyo\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Registro.resources
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\Area_de_apoyo\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Temas.resources
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\Area_de_apoyo\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Ingles_0.resources
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\Area_de_apoyo\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Evaluar_ingles_cero.resources
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\Area_de_apoyo\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Evaluar_ingles_dos.resources
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\Area_de_apoyo\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Evaluar_ingles_uno.resources
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\Area_de_apoyo\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Ingles_uno.resources
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\Area_de_apoyo\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Ingles_dos.resources
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\Area_de_apoyo\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Evaluacion1_uno.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Area_Ingles\Area_Ingles\bin\Debug\Area_Ingles.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Area_Ingles\Area_Ingles\bin\Debug\Area_Ingles.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Area_Ingles\Area_Ingles\bin\Debug\Area_Ingles.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Area_Ingles\Area_Ingles\bin\Debug\Area_Ingles.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Evaluacion1_uno.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Evaluar_ingles_cero.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Evaluar_ingles_dos.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Evaluar_ingles_uno.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Area_de_Ingles.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Ingles_0.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Ingles_dos.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Ingles_uno.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Login.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Resources.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Registro.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Temas.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Area_Ingles\Area_Ingles\bin\Debug\areaIngles.mdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Area_Ingles\Area_Ingles\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Area_Ingles\Area_Ingles\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Area_Ingles\Area_Ingles\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Area_Ingles\Area_Ingles\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.vbproj.ResolveComReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Area_Ingles\Area_Ingles\bin\Debug\areaIngles.mdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Area_Ingles\Area_Ingles\bin\Debug\Area_Ingles.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Area_Ingles\Area_Ingles\bin\Debug\Area_Ingles.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Area_Ingles\Area_Ingles\bin\Debug\Area_Ingles.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Area_Ingles\Area_Ingles\bin\Debug\Area_Ingles.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Area_Ingles\Area_Ingles\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Area_Ingles\Area_Ingles\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Area_Ingles\Area_Ingles\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Area_Ingles\Area_Ingles\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.vbproj.ResolveComReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Evaluacion1_uno.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Evaluar_ingles_cero.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Evaluar_ingles_dos.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Evaluar_ingles_uno.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Area_de_Ingles.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Ingles_0.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Ingles_dos.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Ingles_uno.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Login.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Resources.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Registro.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Temas.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\grupo_40\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Fase5\Area_Ingles\Area_Ingles\bin\Debug\areaIngles.mdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Fase5\Area_Ingles\Area_Ingles\bin\Debug\Area_Ingles.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Fase5\Area_Ingles\Area_Ingles\bin\Debug\Area_Ingles.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Fase5\Area_Ingles\Area_Ingles\bin\Debug\Area_Ingles.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Fase5\Area_Ingles\Area_Ingles\bin\Debug\Area_Ingles.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\Fase5\Area_Ingles\Area_Ingles\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Fase5\Area_Ingles\Area_Ingles\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Fase5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Fase5\Area_Ingles\Area_Ingles\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Fase5\Area_Ingles\Area_Ingles\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Fase5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.vbproj.ResolveComReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Fase5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Evaluacion1_uno.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Fase5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Evaluar_ingles_cero.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Fase5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Evaluar_ingles_dos.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Fase5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Evaluar_ingles_uno.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Fase5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Area_de_Ingles.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Fase5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Ingles_0.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Fase5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Ingles_dos.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Fase5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Ingles_uno.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Fase5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Login.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Fase5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Resources.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Fase5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Registro.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Fase5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Temas.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Fase5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Fase5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Fase5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\Fase5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.pdb
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\paso 4\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.vbprojResolveAssemblyReference.cache
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\paso 4\Area_Ingles\Area_Ingles\obj\Debug\Interop.WMPLib.dll
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\paso 4\Area_Ingles\Area_Ingles\obj\Debug\AxInterop.WMPLib.dll
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\paso 4\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.vbproj.ResolveComReference.cache
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\paso 4\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Evaluacion1_uno.resources
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\paso 4\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Evaluar_ingles_cero.resources
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\paso 4\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Evaluar_ingles_dos.resources
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\paso 4\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Area_de_Ingles.resources
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\paso 4\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Ingles_0.resources
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\paso 4\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Ingles_dos.resources
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\paso 4\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Ingles_uno.resources
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\paso 4\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Resources.resources
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\paso 4\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Temas.resources
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\paso 4\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.vbproj.GenerateResource.Cache
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\paso 4\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.exe
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\paso 4\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.xml
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\paso 4\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.pdb
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\paso 4\Area_Ingles\Area_Ingles\bin\Debug\Area_Ingles.exe.config
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\paso 4\Area_Ingles\Area_Ingles\bin\Debug\Area_Ingles.exe
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\paso 4\Area_Ingles\Area_Ingles\bin\Debug\Area_Ingles.pdb
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\paso 4\Area_Ingles\Area_Ingles\bin\Debug\Area_Ingles.xml
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\paso 4\Area_Ingles\Area_Ingles\bin\Debug\Interop.WMPLib.dll
+C:\UNAD\6 semestre\VISUAL BASIC BASICO - (201416A_611)\paso 4\Area_Ingles\Area_Ingles\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Area_Ingles\Area_Ingles\bin\Debug\Area_Ingles.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Area_Ingles\Area_Ingles\bin\Debug\Area_Ingles.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Area_Ingles\Area_Ingles\bin\Debug\Area_Ingles.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Area_Ingles\Area_Ingles\bin\Debug\Area_Ingles.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Area_Ingles\Area_Ingles\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Area_Ingles\Area_Ingles\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Area_Ingles\Area_Ingles\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Area_Ingles\Area_Ingles\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.vbproj.ResolveComReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Evaluacion1_uno.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Evaluar_ingles_cero.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Evaluar_ingles_dos.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Area_de_Ingles.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Ingles_0.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Ingles_dos.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Ingles_uno.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Resources.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.Temas.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Area_Ingles\Area_Ingles\obj\Debug\Area_Ingles.pdb

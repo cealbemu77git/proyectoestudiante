@@ -1,0 +1,75 @@
+C:\Users\TAVO\source\repos\Base de datos\Base de datos\bin\Debug\Base de datos.exe.config
+C:\Users\TAVO\source\repos\Base de datos\Base de datos\bin\Debug\Base de datos.exe
+C:\Users\TAVO\source\repos\Base de datos\Base de datos\bin\Debug\Base de datos.pdb
+C:\Users\TAVO\source\repos\Base de datos\Base de datos\bin\Debug\Base de datos.xml
+C:\Users\TAVO\source\repos\Base de datos\Base de datos\obj\Debug\Base de datos.vbprojAssemblyReference.cache
+C:\Users\TAVO\source\repos\Base de datos\Base de datos\obj\Debug\Base_de_datos.Inicio.resources
+C:\Users\TAVO\source\repos\Base de datos\Base de datos\obj\Debug\Base_de_datos.Resources.resources
+C:\Users\TAVO\source\repos\Base de datos\Base de datos\obj\Debug\Base de datos.vbproj.GenerateResource.cache
+C:\Users\TAVO\source\repos\Base de datos\Base de datos\obj\Debug\Base de datos.vbproj.CoreCompileInputs.cache
+C:\Users\TAVO\source\repos\Base de datos\Base de datos\obj\Debug\Base de datos.exe
+C:\Users\TAVO\source\repos\Base de datos\Base de datos\obj\Debug\Base de datos.xml
+C:\Users\TAVO\source\repos\Base de datos\Base de datos\obj\Debug\Base de datos.pdb
+C:\Users\TAVO\source\repos\Base de datos\Base de datos\obj\Debug\Base_de_datos.Basededatos.resources
+C:\Users\TAVO\source\repos\Base de datos\Base de datos\obj\Debug\Base_de_datos.Menu1.resources
+C:\Users\TAVO\source\repos\Base de datos\Base de datos\obj\Debug\Base_de_datos.Conocimiento.resources
+C:\Users\TAVO\source\repos\Base de datos\Base de datos\obj\Debug\Base_de_datos.Conocimiento2.resources
+C:\Users\TAVO\source\repos\Base de datos\Base de datos\obj\Debug\Base_de_datos.Conocimiento3.resources
+C:\Users\TAVO\source\repos\Base de datos\Base de datos\obj\Debug\Base_de_datos.Conocimiento4.resources
+C:\Users\TAVO\source\repos\Base de datos\Base de datos\obj\Debug\Base_de_datos.Conocimiento5.resources
+C:\Users\TAVO\source\repos\Base de datos\Base de datos\obj\Debug\Base_de_datos.Evaluacion.resources
+C:\Users\TAVO\source\repos\Base de datos\Base de datos\obj\Debug\Base_de_datos.Menuscratch.resources
+C:\Users\TAVO\source\repos\Base de datos\Base de datos\obj\Debug\Base_de_datos.Test2.resources
+C:\Users\TAVO\source\repos\Final\Base de datos\Base de datos\obj\Debug\Base de datos.vbprojAssemblyReference.cache
+C:\Users\TAVO\source\repos\Final\Base de datos\Base de datos\obj\Debug\Base_de_datos.Basededatos.resources
+C:\Users\TAVO\source\repos\Final\Base de datos\Base de datos\obj\Debug\Base_de_datos.Inicio.resources
+C:\Users\TAVO\source\repos\Final\Base de datos\Base de datos\obj\Debug\Base_de_datos.Menu1.resources
+C:\Users\TAVO\source\repos\Final\Base de datos\Base de datos\obj\Debug\Base_de_datos.Resources.resources
+C:\Users\TAVO\source\repos\Final\Base de datos\Base de datos\obj\Debug\Base de datos.vbproj.GenerateResource.cache
+C:\Users\TAVO\source\repos\Final\Base de datos\Base de datos\obj\Debug\Base de datos.vbproj.CoreCompileInputs.cache
+C:\Users\TAVO\source\repos\Final\Base de datos\Base de datos\obj\Debug\Base de datos.exe
+C:\Users\TAVO\source\repos\Final\Base de datos\Base de datos\obj\Debug\Base de datos.xml
+C:\Users\TAVO\source\repos\Final\Base de datos\Base de datos\obj\Debug\Base de datos.pdb
+C:\Users\TAVO\source\repos\Final\Base de datos\Base de datos\bin\Debug\Base de datos.exe.config
+C:\Users\TAVO\source\repos\Final\Base de datos\Base de datos\bin\Debug\Base de datos.exe
+C:\Users\TAVO\source\repos\Final\Base de datos\Base de datos\bin\Debug\Base de datos.pdb
+C:\Users\TAVO\source\repos\Final\Base de datos\Base de datos\bin\Debug\Base de datos.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\bin\Debug\Base de datos.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\bin\Debug\Base de datos.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\bin\Debug\Base de datos.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\bin\Debug\Base de datos.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\bin\Debug\MySql.Data.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\obj\Debug\Base de datos.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\obj\Debug\Base_de_datos.Basededatos.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\obj\Debug\Base_de_datos.Inicio.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\obj\Debug\Base_de_datos.Menu1.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\obj\Debug\Base_de_datos.Resources.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\obj\Debug\Base de datos.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\obj\Debug\Base de datos.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\obj\Debug\Base de datos.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\obj\Debug\Base de datos.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\bin\Debug\Videos\QuE es Scratch.mp4
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\bin\Debug\Area_Ingles.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\bin\Debug\Scratch.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\bin\Debug\Area_Ingles.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\bin\Debug\Area_Ingles.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\bin\Debug\Area_Ingles.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\bin\Debug\Scratch.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\bin\Debug\Scratch.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\bin\Debug\Scratch.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\bin\Debug\Database1.mdf
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\bin\Debug\Database1_log.ldf
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\bin\Debug\InteligenciaA_evelyn.mdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\bin\Debug\Interface grafica - Evelyn Patiño - IA.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\bin\Debug\WindowsApp1.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\bin\Debug\stdole.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\bin\Debug\Interface grafica - Evelyn Patiño - IA.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\bin\Debug\Interface grafica - Evelyn Patiño - IA.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\bin\Debug\Interface grafica - Evelyn Patiño - IA.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\bin\Debug\WindowsApp1.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\bin\Debug\WindowsApp1.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\fase_5\Base de datos\Base de datos\bin\Debug\WindowsApp1.exe.config

@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0FCA101E-E3C8-4C92-B8D2-1C0FC28FB1F1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Scratch.My.MyApplication</StartupObject>
+    <RootNamespace>Scratch</RootNamespace>
+    <AssemblyName>Scratch</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Scratch.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Scratch.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Conocimiento.Designer.vb">
+      <DependentUpon>Conocimiento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Conocimiento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conocimiento2.Designer.vb">
+      <DependentUpon>Conocimiento2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Conocimiento2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conocimiento3.Designer.vb">
+      <DependentUpon>Conocimiento3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Conocimiento3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conocimiento4.Designer.vb">
+      <DependentUpon>Conocimiento4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Conocimiento4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conocimiento5.Designer.vb">
+      <DependentUpon>Conocimiento5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Conocimiento5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Evaluacion.Designer.vb">
+      <DependentUpon>Evaluacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Evaluacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormScratch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormScratch.Designer.vb">
+      <DependentUpon>FormScratch.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Multimedia.Designer.vb">
+      <DependentUpon>Multimedia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Multimedia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Test2.Designer.vb">
+      <DependentUpon>Test2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Test2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Conocimiento.resx">
+      <DependentUpon>Conocimiento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conocimiento2.resx">
+      <DependentUpon>Conocimiento2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conocimiento3.resx">
+      <DependentUpon>Conocimiento3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conocimiento4.resx">
+      <DependentUpon>Conocimiento4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conocimiento5.resx">
+      <DependentUpon>Conocimiento5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Evaluacion.resx">
+      <DependentUpon>Evaluacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormScratch.resx">
+      <DependentUpon>FormScratch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Multimedia.resx">
+      <DependentUpon>Multimedia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test2.resx">
+      <DependentUpon>Test2.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="imagenes\Cine.jpg" />
+    <Content Include="imagenes\Creditos.jpg" />
+    <Content Include="imagenes\Menu.JPG" />
+    <Content Include="imagenes\SALIR.jpg" />
+    <Content Include="imagenes\scratch.png" />
+    <Content Include="imagenes\scratch1.jpg" />
+    <Content Include="imagenes\Tablero2.jpg" />
+    <Content Include="imagenes\zwUJet.png" />
+    <Content Include="imagenes\zwUJet2.jpg" />
+    <Content Include="Videos\QuE es Scratch.mp4">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
